@@ -1,5 +1,15 @@
 # C# Project
 
+
+The project represented here by our team is an application of management of
+of the ENSA of Tangier.
+This choice is the result of an assignment given by our Prof. Mohamed GHAILANI and
+which had as a goal to highlight our skills in the C# language,
+connect our application with a database server and most importantly learn to work in a team
+learn to work as a team while distributing tasks and helping each other to deliver
+helping each other to deliver the work in the time requested.
+
+
 ![image](https://user-images.githubusercontent.com/31325358/169597537-911315f1-16a5-455e-a71d-77eaf2132abf.png)
 
 
