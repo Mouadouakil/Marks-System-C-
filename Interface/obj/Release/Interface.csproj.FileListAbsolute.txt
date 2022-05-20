@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Desktop\Pll\Interface\obj\Release\Interface.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Pll\Interface\obj\Release\Interface.consultation_note.resources
+C:\Users\LENOVO\Desktop\Pll\Interface\obj\Release\Interface.Bilan_anuel.resources
+C:\Users\LENOVO\Desktop\Pll\Interface\obj\Release\Interface.MP.resources
+C:\Users\LENOVO\Desktop\Pll\Interface\obj\Release\Interface.Notes.resources
+C:\Users\LENOVO\Desktop\Pll\Interface\obj\Release\Interface.Gestion_Etudiants.resources
+C:\Users\LENOVO\Desktop\Pll\Interface\obj\Release\Interface.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Pll\Interface\obj\Release\Interface.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Pll\Interface\obj\Release\Interface.csproj.CoreCompileInputs.cache
